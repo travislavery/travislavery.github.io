@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Why do I code?"
+date:       2017-12-21 23:35:51 +0000
+permalink:  why_do_i_code
+---
+
+
+What has driven me to become a programmer? While there are countless small things that have all compiled into a driving desire and motivation to program, I think I can list three reasons that capture them all. First, I love the idea that with time, effort, knowledge and motivation, I could literally create anything. Second, I believe that I can do some real good in the world and impact so many people's lives for the better, even if they don't know that it is me behind the code. Lastly, I love it. I love the whole process of creating, debugging, and that feeling of completion when your code is just right. The idea that somebody would pay me to do this thing I love to do is amazing, and I look forward to that day. 
+
+Just about everything in our modern world has code either intrinsically, or code was used at some point between its creation and when it enters my life. Which means that in every crazy corner of our society, from creating children's toys to NASA to Reddit, there are programmers. If I ever get tired or am no longer motivated in one area, I can get a job elsewhere. I don't have to decide right here and now an industry that I will spend the rest of my life in, because as a programmer the area available is everywhere. I have a lot of crazy ideas (I carry around a notebook with me, it's full of them), and all I've got to do to make any one of them a reality is learn that bridge between my mind and the world.
+
+Impacting other's lives is something that all of us do every day, intentionally or not. Even people who we don't even register on our radar are impacted by the decisions we make, and a lot of the time I feel like we have forgotten that. I try to create a chain in my head of all the people that I affect with my actions, even the small ones. It's crazy how long that chain gets very quickly. Creating a fluid, enjoyable experience with my code in the future is a dream I have all the time. Regardless of what the environment may be, that feeling of a smooth interaction with technology is something I love, and I want to create that for other people. 99.9% of the times I get that feeling, I have no idea who made it possible for me to experience it, but I sure am glad that they are out there doing their thing. I'd like to join them.
+
+If you haven't picked up on the theme of this whole post yet, I'll clue you in. I love to program. From coming up with ideas to turning them into a reality, and finally that interaction with the finished project. I've been teaching myself to program for a while now, and I've joined Flatiron for that final bit of knowledge I need to make my dream a reality. I am so excited to be just a few months from beginning what I hope will be a long and fulfilling career doing something incredible. This is the first of what I'm sure will be many posts, but hey, you've got to start somewhere. My name is Travis Lavery, and it's been nice to talk at you internet.
